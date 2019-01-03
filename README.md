@@ -1,8 +1,8 @@
 # ACM_FR
 Retrouve ici problème et ACM à réaliser dans n'importe quels languages. <br />
-PS : En français :) <br /><br />
+PS : En français :) <br />
 
-Les ACMs seront présentés de cette manière : <br /><br />
+Les ACMs seront présentés de cette manière : <br />
 
 **un énoncé** <br />
 la description du problème à résoudre <br />
